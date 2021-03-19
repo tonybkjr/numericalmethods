@@ -1,5 +1,5 @@
 function [S_rr,S_thth] = solver_Stress_Martin(D,T,T_i,E_T,E_s,nu_T,nu_s,alpha_T,alpha_s,dr,np,r_tot,r_o1)
-%% Tuesday 11/06/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Stress Numerical Solver %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function 'solver_Stress_Martin' calculates the radial and Hoop
 % stresses for the spherical pressure vessel using the following equations:
 %
