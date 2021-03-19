@@ -1,5 +1,5 @@
 function plot_temp_Martin(np,t,r_mm,r_i1,r_o2,T_C,idx,idx2,idx3,idx4,idx5,idx6,idx7)
-%% %%%%%% Thursday 11/10/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%% Temperature Plotter %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function 'plot_temp_Martin' plots the temperature distribution of
 % the spherical pressure vessel in the radial direction. 
