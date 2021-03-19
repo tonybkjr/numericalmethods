@@ -1,5 +1,5 @@
 function t = mesh_temporal_Martin(t_tot,dt)
-%% Friday 11/11/2016
+%% Temporal Mesh
 %
 % This function 'mesh_temporal_Martin(t_tot,dt)' diescretizes the time domain from
 % 0-T_tot. 
