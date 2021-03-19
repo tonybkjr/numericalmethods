@@ -21,4 +21,9 @@ main file and are given below:
 This analysis incorporated various finited-difference schemes, all second order. Since the transient response was analyzed, an implicit BTCS method was used (the report can shed more light on the details). 
 Most of the files have good commenting, however, there are some functions where commenting was left to a minimum. I can shed light on the details for these functions if needed. 
 
+## Figures
+
+Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the report for a more detailed explanation. 
+
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)
+*image_caption*
