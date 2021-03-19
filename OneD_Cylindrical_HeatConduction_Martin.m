@@ -1,4 +1,4 @@
-%% %%%%% Wednesday 11/09/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%% 1D Uncoupled Thermoelastic Response%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This Matlab file is used to evaluate the transient heat conduction
 % response of a spherical vessel, with the governing equation:
