@@ -29,14 +29,13 @@ Below are various figures that the MATLAB code will display after the main scrip
 *Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.* <br> </br>
 
 <img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg" width="500">
-<img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png" width="500">
 
-<img scr="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png" width="500">
+<img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png" width="500">
 *Temperature distribution at the inner radius and outer radius over time. The plot is a semilog plot.* <br> </br>
 
 You can see that the temperature at the inner radius, which is closer to the heat source, increases much faster than the temperature of the outer radius. 
 
-<img scr="https://github.com/tonybkjr/numericalmethods/blob/main/Images/Displacement_Time.png" width="500">
+<img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/Displacement_Time.png" width="500">
 *Displacement at various radii over time. The outer radius expands significantly more than the inner radial locations.* <br> </br>
 
 ### Other Figures
