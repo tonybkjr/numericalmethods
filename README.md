@@ -26,4 +26,17 @@ Most of the files have good commenting, however, there are some functions where 
 Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the report for a more detailed explanation. 
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)<br> </br>
-*Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.*
+*Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.* <br> </br>
+
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png)<br> </br>
+*Temperature distribution at the inner radius and outer radius over time. The plot is a semilog plot.* <br> </br>
+
+You can see that the temperature at the inner radius, which is closer to the heat source, increases much faster than the temperature of the outer radius. 
+
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/Displacement_Time.png)<br> </br>
+*Displacement at various radii over time. The outer radius expands significantly more than the inner radial locations.* <br> </br>
+
+### Other Figures
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/2D_TempDistribution.png)
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/2D_RadialStress.png)
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/2D_HoopStress.png)
