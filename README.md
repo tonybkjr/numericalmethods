@@ -21,4 +21,4 @@ main file and are given below:
 This analysis incorporated various finited-difference schemes, all second order. Since the transient response was analyzed, an implicit BTCS method was used (the report can shed more light on the details). 
 Most of the files have good commenting, however, there are some functions where commenting was left to a minimum. I can shed light on the details for these functions if needed. 
 
-![](image.jpg)(https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)
