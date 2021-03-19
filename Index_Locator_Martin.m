@@ -1,5 +1,5 @@
 function [idx,idx2,idx3,idx4,idx5,idx6,idx7] = Index_Locator_Martin(t,r_tot,r_o1,r_o2)
-%% %%%%%% Friday 11/12/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%% Index Locator %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function 'Index_Locator_Martin' is used to find the index containing
 % the specifie values to be used for plotting.
 %
