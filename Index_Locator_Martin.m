@@ -9,13 +9,14 @@ function [idx,idx2,idx3,idx4,idx5,idx6,idx7] = Index_Locator_Martin(t,r_tot,r_o1
 %   Outpus: Index locations (idx, idx2, idx3, ...).
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
+% The 'vals' below are various times to be analyzed (e.g., 10 s, 100 s, etc.). 
 val = 10;
 val2 = 100;
 val3 = 1000;
 val4 = 5000;
 val5 = 10000;
 
+% The following commands find the index that contains the values given above. 
 [~, idx] = min(abs(t - val));
 [~, idx2] = min(abs(t - val2));
 [~, idx3] = min(abs(t - val3));
