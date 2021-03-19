@@ -9,12 +9,12 @@ main file and are given below:
 
 1.		mesh_space_Martin.m	(This creates the spatial mesh for the analysis)
 2.		mesh_temporal_Martin.m (This creates the temporal mesh for the analysis). <br> </br>
-3.	Index_Locator_Martin.m (This locates the indices for various values needed in the analysis). <br> </br>
-i.		solver_Temp_Martin.m (This does the numerical solving for temperature distributions and the matrix). <br> </br>
-v) 		solver_Stress_Martin.m (This numerically solves the stress matrix). <br> </br>
-vi)		solver_Displ_Martin.m (This numerical solves the displacement matrix). <br> </br>
-vii)	plot_temp_Martin.m (This plots the various temperature distributions). <br> </br>
-viii)	plot_Stress_Displ_Martin.m (This plots the various stresses and displacements). <br> </br>
+3.		Index_Locator_Martin.m (This locates the indices for various values needed in the analysis). <br> </br>
+4.		solver_Temp_Martin.m (This does the numerical solving for temperature distributions and the matrix). <br> </br>
+5. 		solver_Stress_Martin.m (This numerically solves the stress matrix). <br> </br>
+6.		solver_Displ_Martin.m (This numerical solves the displacement matrix). <br> </br>
+7.		plot_temp_Martin.m (This plots the various temperature distributions). <br> </br>
+8.		plot_Stress_Displ_Martin.m (This plots the various stresses and displacements). <br> </br>
 
 This analysis incorporated various finited-difference schemes, all second order. Since the transient response was analyzed, an implicit BTCS method was used (the report can shed more light on the details). 
 Most of the files have good commenting, however, there are some functions where commenting was left to a minimum. I can shed light on the details for these functions if needed. 
