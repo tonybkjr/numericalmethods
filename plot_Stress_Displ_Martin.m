@@ -1,8 +1,8 @@
 function plot_Stress_Displ_Martin(t,r_mm,r_i1,r_o2,D,S_rr,S_thth,np,idx,idx2,idx3,idx4,idx5,idx6,idx7)
 
 D_2d = zeros(np,np);
-S_rr_2d = zeros(np,np);
-S_thth_2d = zeros(np,np);
+S_rr_2d = zeros(np,np);		% Preallocates the radial stress matrix.
+S_thth_2d = zeros(np,np);	% Preallocates the azimuthal stress matrix (theta). 
 for i = 1:np
 for j = 1:np
 D_2d(i,j) = D(i,end);
