@@ -23,7 +23,7 @@ This analysis incorporated various finited-difference schemes, all second order.
 Most of the files have good commenting, however, there are some functions where commenting was left to a minimum. I can shed light on the details for these functions if needed. 
 
 ## Figures
-Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the [**Report**](https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/CME_ProjectReport_Martin_RevB.pdf) for a more detailed explanation. 
+Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the [**REPORT**](https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/CME_ProjectReport_Martin_RevB.pdf) for a more detailed explanation. 
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)<br> </br>
 *Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.* <br> </br>
