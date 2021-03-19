@@ -2,7 +2,8 @@
 This is a repository for a project using finite difference methods in MATLAB that solves the spherical 1D heat equation for a spherical pressure vessel. 
 
 There are 9 different MATLAB .m files in this repository. There is also a folder for the figures that were generated with the code. I have also created
-a separate repository called "numericalmethods-LaTex" to house the LaTex files and the report for this project. You can download everything here and use it as you would like (https://github.com/tonybkjr/numericalmethods-LaTex). 
+a separate repository called "numericalmethods-LaTex" to house the LaTex files and the report for this project. You can download everything here and use it as you would like (https://github.com/tonybkjr/numericalmethods-LaTex).
+Here is the link to the report itself: https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/CME_ProjectReport_Martin_RevB.pdf.
 
 ## Functions
 
@@ -22,7 +23,7 @@ This analysis incorporated various finited-difference schemes, all second order.
 Most of the files have good commenting, however, there are some functions where commenting was left to a minimum. I can shed light on the details for these functions if needed. 
 
 ## Figures
-
+[Report](https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/CME_ProjectReport_Martin_RevB.pdf)
 Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the report for a more detailed explanation. 
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)<br> </br>
