@@ -1,5 +1,5 @@
 function [A_Disp,D] = solver_Displ_Martin(T,T_i,r_tot,np,nt,nu_T,nu_s,alpha_T,alpha_s,dr,E_T,E_s,r_o1,idx6,idx7)
-%% Monday 12/05/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Displacement Numerical Solver %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % This function solves the displacement vector of the pressure vessel.
 %
