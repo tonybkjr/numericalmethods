@@ -7,7 +7,7 @@ a folder to house the LaTex files and the report for this project. You can downl
 The main file is called "OneD_CylindricalHeatConduction_Martin.m" and houses all of the main information for variables etc. There are 8 functions called within the 
 main file and are given below:
 
-i)		mesh_space_Martin.m				(This creates the spatial mesh for the analysis). 
+i)		mesh_space_Martin.m				(This creates the spatial mesh for the analysis). <br> </br>
 ii)		mesh_temporal_Martin.m 			(This creates the temporal mesh for the analysis). 
 iii)	Index_Locator_Martin.m			(This locates the indices for various values needed in the analysis). 
 iv)		solver_Temp_Martin.m			(This does the numerical solving for temperature distributions and the matrix). 
