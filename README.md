@@ -30,9 +30,6 @@ Below are various figures that the MATLAB code will display after the main scrip
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png)<br> </br>
 
-<img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png" width="500">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-
 You can see that the temperature at the inner radius, which is closer to the heat source, increases much faster than the temperature of the outer radius. 
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/Displacement_Time.png)<br> </br>
