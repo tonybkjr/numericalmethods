@@ -25,7 +25,7 @@ Most of the files have good commenting, however, there are some functions where 
 
 Below are various figures that the MATLAB code will display after the main script has ran. They can also be found in the report for a more detailed explanation. 
 
-![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg)<br> </br>
+![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution.jpg | width="150")<br> </br>
 *Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.* <br> </br>
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png)<br> </br>
