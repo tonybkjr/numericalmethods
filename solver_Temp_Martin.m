@@ -1,5 +1,5 @@
 function [T,A_temp,q] = solver_Temp_Martin(dr,np,zeta_T,zeta_s,gamma_2_T,gamma_2_s,conductivity_s,conductivity_T,r_tot,r_o1,T_i,nt,T_inf,T_f,q,gamma,t,beta,idx6,idx7)
-%% %%%%% Friday 11/11/2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%% Temperature Numerical Solver %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % This function forms the A matrix and b vector to solve for the
 % temperature vales throughout the pressure vessel.
