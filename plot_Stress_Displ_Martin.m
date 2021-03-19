@@ -1,5 +1,7 @@
 function plot_Stress_Displ_Martin(t,r_mm,r_i1,r_o2,D,S_rr,S_thth,np,idx,idx2,idx3,idx4,idx5,idx6,idx7)
 
+%% Stress & Displacement Numerical Solver %%%%%
+
 D_2d = zeros(np,np);
 S_rr_2d = zeros(np,np);
 S_thth_2d = zeros(np,np);
