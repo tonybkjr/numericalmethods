@@ -29,7 +29,9 @@ Below are various figures that the MATLAB code will display after the main scrip
 *Temperature distribution throughout the pressure vessel at various times, starting at 10 s and going to 10,000 s.* <br> </br>
 
 ![](https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png)<br> </br>
-*Temperature distribution at the inner radius and outer radius over time. The plot is a semilog plot.* <br> </br>
+
+<img src="https://github.com/tonybkjr/numericalmethods/blob/main/Images/TempDistribution_Time.png" width="500">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
 You can see that the temperature at the inner radius, which is closer to the heat source, increases much faster than the temperature of the outer radius. 
 
