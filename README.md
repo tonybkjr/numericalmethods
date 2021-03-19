@@ -4,6 +4,8 @@ This is a repository for a project using finite difference methods in MATLAB tha
 There are 9 different MATLAB .m files in this repository. There is also a folder for the figures that were generated with the code. I have also created
 a separate repository called "numericalmethods-LaTex" to house the LaTex files and the report for this project. You can download everything here and use it as you would like (https://github.com/tonybkjr/numericalmethods-LaTex). 
 
+## Functions
+
 The main file is called "OneD_CylindricalHeatConduction_Martin.m" and houses all of the main information for variables etc. There are 8 functions called within the 
 main file and are given below:
 
