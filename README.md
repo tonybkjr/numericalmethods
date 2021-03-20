@@ -3,7 +3,7 @@ This is a repository for a project using finite difference methods in MATLAB tha
 
 There are 9 different MATLAB .m files in this repository. There is also a folder for the figures that were generated with the code. I have also created
 a separate repository called "numericalmethods-LaTex" to house the LaTex files and the report for this project. You can download everything here and use it as you would like (https://github.com/tonybkjr/numericalmethods-LaTex).
-Here is the link to the report itself: https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/CME_ProjectReport_Martin_RevB.pdf.
+Here is the link to the report itself: https://github.com/tonybkjr/numericalmethods-LaTex/blob/main/One_Dimensional_Uncoupled_Thermoelastic_Response_of_a_Spherical_Pressure_Vessel_to_an_Internal_Wall_Heat_Source.pdf.
 
 ## Functions
 
